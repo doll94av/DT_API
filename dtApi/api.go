@@ -33,7 +33,7 @@ func callApi(req *http.Request) string {
 func main() {
 
 	//default values for the API
-	var apiToken = "Api-Token dwi9bxPFTA-BlAf6aaWv8"
+	var apiToken = "<TOKEN REMOVED>"
 	var apiURL = "https://rwn06871.dev.dynatracelabs.com/api/v1/entity/infrastructure/hosts?includeDetails=true"
 	var reqType = "GET"
 
